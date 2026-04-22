@@ -7,7 +7,7 @@ Recién egresada de la Licenciatura en Computación. Estoy expandiendo mis conoc
 🌱 Actualmente aprendiendo:
 - Spring Boot con Kotlin para el desarrollo de aplicaciones Back-End
 
-Fuera del código.. me encanta dibujar, escuhar musica y me encantan los videojuegos.
+Fuera del código.. me encanta dibujar, escuchar musica y me encantan los videojuegos.
 
 Siempre en busca de nuevos retos y oportunidades. 
 
