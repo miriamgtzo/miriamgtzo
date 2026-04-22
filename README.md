@@ -1,5 +1,18 @@
 ### Hola 👋 Soy [Miriam](https://github.com/miriamgtzo/miriamgtzo)
 
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi:***
+
+Recién egresada de la Licenciatura en Computación. Estoy expandiendo mis conocimientos en desarrollo Front-End y Back-End, y lista para enfrentar nuevos retos que me permitan crecer profesionalmente. 
+
+🌱 Actualmente aprendiendo:
+- Spring Boot con Kotlin para el desarrollo de aplicaciones Back-End
+
+Fuera del código.. me encanta dibujar, escuhar musica y me encantan los videojuegos.
+
+Siempre en busca de nuevos retos y oportunidades. 
+
+
+
 ##### Lenguajes que uso: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
